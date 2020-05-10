@@ -8,10 +8,10 @@
 
 ## 中国主要城市的 CAD 地图（陆续更新中）
 
-| 城市名称 | 预览 | 下载地址 |
-| :---         |     :---:      |          ---: |
-|苏州|<img src="https://github.com/resuly/cadmaps/raw/master/img/suzhou.jpg" width="200px">| [广州市](https://github.com/resuly/cadmaps/raw/master/data/suzhou.dwg)|
-|广州|<img src="https://github.com/resuly/cadmaps/raw/master/img/guangzhou.jpg" width="200px">| [广州市](https://github.com/resuly/cadmaps/raw/master/data/guangzhou.dwg)|
+| 城市名称 | 生成日期 | 预览 | 下载地址 |
+| :---         |     :---:      |     :---:      |          ---: |
+|苏州|2018-04-04|<img src="https://github.com/resuly/cadmaps/raw/master/img/suzhou.jpg" width="200px">| [广州市](https://github.com/resuly/cadmaps/raw/master/data/suzhou.dwg)|
+|广州|2018-06-26|<img src="https://github.com/resuly/cadmaps/raw/master/img/guangzhou.jpg" width="200px">| [广州市](https://github.com/resuly/cadmaps/raw/master/data/guangzhou.dwg)|
 
 
 
